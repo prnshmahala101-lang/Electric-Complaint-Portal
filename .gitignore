@@ -1,0 +1,18 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# Build folders
+out/
+target/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+config.properties
